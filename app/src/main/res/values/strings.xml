@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutorial07</string>
+
+    <string-array name="city">
+        <item>Ahemedabad</item>
+        <item>Silvassa</item>
+        <item>Veraval</item>
+        <item>Rajkot</item>
+        <item>Baroda</item>
+
+
+    </string-array>
+</resources>

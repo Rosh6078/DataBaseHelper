@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Logout" android:id="@+id/mylogout">Logout</item>
+    <item android:title="About Us" android:id="@+id/about">About Us</item>
+    <item android:title="Back" android:id="@+id/back" >Back</item>
+</menu>
